@@ -5,3 +5,5 @@ i Have added these lines in another branch called as functions
 
 now these are the changes i have made in the main branch in the github
 i am trying again to copy the changes from github to my local machine 
+
+so it has succesfully changed now i'll upload this again on the github
